@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JebusDev | Desarrollo de Apps</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', sans-serif;
+        background: #020617;
+        color: #e2e8f0;
+    }
+
+    header {
+        background: linear-gradient(120deg, #0f172a, #1e293b);
+        padding: 60px 20px;
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 3rem;
+        margin: 0;
+        color: #38bdf8;
+    }
+
+    header p {
+        color: #94a3b8;
+        margin-top: 10px;
+    }
+
+    .container {
+        max-width: 1100px;
+        margin: auto;
+        padding: 40px 20px;
+    }
+
+    .card {
+        background: #1e293b;
+        border-radius: 16px;
+        padding: 25px;
+        margin-bottom: 25px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+    }
+
+    h2 {
+        color: #38bdf8;
+    }
+
+    .apps {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+        gap: 20px;
+    }
+
+    .app-card {
+        background: #0f172a;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 10px 18px;
+        background: #38bdf8;
+        color: #020617;
+        text-decoration: none;
+        border-radius: 8px;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+
+    footer {
+        text-align: center;
+        padding: 20px;
+        background: #020617;
+        color: #64748b;
+    }
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>JebusDev</h1>
+    <p>Desarrollo de aplicaciones útiles, simples y enfocadas en resolver problemas reales</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>👨‍💻 Sobre JebusDev</h2>
+        <p>
+            JebusDev es un desarrollador independiente enfocado en crear aplicaciones 
+            prácticas para el día a día, especialmente orientadas al análisis de datos 
+            y soluciones digitales en Chile.
+        </p>
+        <p>
+            El enfoque principal es desarrollar herramientas simples, rápidas y útiles, 
+            que entreguen valor real a los usuarios.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>📱 Aplicaciones</h2>
+
+        <div class="apps">
+
+            <div class="app-card">
+                <h3>KmsporPatente</h3>
+                <p>
+                    Aplicación que permite consultar el historial de kilometraje 
+                    de vehículos en Chile usando su patente.
+                </p>
+
+                <ul>
+                    <li>Consulta rápida por patente</li>
+                    <li>Historial de kilometraje</li>
+                    <li>Detección de posibles fraudes</li>
+                    <li>Datos útiles para compra de vehículos</li>
+                </ul>
+
+                <a class="btn" href="https://play.google.com/store/apps/details?id=com.info.kmsporpatente" target="_blank">
+                    Ver en Google Play
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>🚀 Filosofía</h2>
+        <p>
+            “Menos relleno, más utilidad”.  
+            Cada aplicación está pensada para resolver un problema específico 
+            de forma directa, sin complicaciones innecesarias.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>⚠️ Aviso</h2>
+        <p>
+            Las aplicaciones desarrolladas por JebusDev utilizan información pública 
+            disponible y no están afiliadas a organismos gubernamentales.
+        </p>
+        <p>
+            Siempre se recomienda validar los datos con fuentes oficiales.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>📬 Contacto</h2>
+        <p>Email: contacto@jebusdev.cl</p>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 JebusDev
+</footer>
+
+</body>
+</html>
