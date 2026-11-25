@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Términos y Condiciones del servicio KMS por Patente.">
+  <title>Términos del Servicio | KMS por Patente</title>
+  <style>
+    :root { color-scheme: light; --ink:#202938; --muted:#5b6573; --line:#dce2e8; --accent:#155eef; --paper:#fff; --bg:#f4f6f8; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; }
+    main { max-width:900px; margin:36px auto; padding:48px 56px; background:var(--paper); border:1px solid var(--line); border-radius:14px; box-shadow:0 8px 28px rgba(20,30,50,.06); }
+    h1,h2,h3 { line-height:1.25; }
+    h1 { margin:0 0 8px; font-size:2rem; }
+    h2 { margin:34px 0 10px; padding-bottom:7px; border-bottom:1px solid var(--line); font-size:1.25rem; }
+    h3 { margin:20px 0 6px; font-size:1.05rem; }
+    p { margin:10px 0; }
+    ul { padding-left:24px; }
+    li { margin:6px 0; }
+    a { color:var(--accent); overflow-wrap:anywhere; }
+    .subtitle { color:var(--muted); margin-top:0; }
+    .notice { padding:14px 16px; background:#fff8e6; border:1px solid #f2d58b; border-radius:8px; }
+    .field { background:#fff3cd; border:1px dashed #c58a00; border-radius:4px; padding:0 4px; font-weight:600; }
+    .meta { color:var(--muted); font-size:.93rem; }
+    footer { margin-top:42px; padding-top:18px; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem; }
+    @media (max-width:640px) { main { margin:0; padding:26px 20px; border:0; border-radius:0; } h1 { font-size:1.65rem; } }
+    @media print { body { background:#fff; } main { margin:0; padding:0; max-width:none; border:0; box-shadow:none; } .notice { break-inside:avoid; } }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Términos y Condiciones de Uso</h1>
+    <p class="subtitle"><strong>KMS por Patente</strong></p>
+    <p class="meta">Última actualización: <span class="field">[DD/MM/AAAA]</span></p>
+  </header>
+
+  <p class="notice"><strong>Antes de publicar:</strong> reemplaza todos los campos destacados entre corchetes, confirma que las descripciones reflejen el funcionamiento real de la aplicación y revisa este documento con asesoría legal en Chile. Este texto es un modelo general y no sustituye una revisión jurídica.</p>
+
+  <h2>1. Identificación del responsable</h2>
+  <p>El servicio digital denominado <strong>“KMS por Patente”</strong> (en adelante, la “Aplicación”) es desarrollado y administrado por <span class="field">[NOMBRE COMPLETO DEL DESARROLLADOR]</span>, persona natural, RUT <span class="field">[RUT]</span>, con domicilio en <span class="field">[COMUNA, REGIÓN, CHILE]</span> (en adelante, el “Responsable”).</p>
+  <p>Para consultas, solicitudes o comunicaciones relacionadas con estos términos, el usuario puede contactar al Responsable en <span class="field">[CORREO ELECTRÓNICO DE CONTACTO]</span>.</p>
+
+  <h2>2. Aceptación de los términos</h2>
+  <p>Al descargar, instalar, acceder o utilizar la Aplicación, el usuario declara que ha leído y acepta estos Términos y Condiciones (los “Términos”). Si no está de acuerdo con ellos, debe abstenerse de utilizar la Aplicación y desinstalarla de su dispositivo.</p>
+  <p>Si el usuario utiliza la Aplicación en representación de otra persona u organización, declara contar con facultades suficientes para hacerlo.</p>
+
+  <h2>3. Descripción del servicio</h2>
+  <p>KMS por Patente permite ingresar la placa patente única (PPU) de un vehículo y consultar información de kilometraje asociada a registros disponibles para esa patente. Dependiendo de la información recibida desde las fuentes utilizadas, la Aplicación puede mostrar fechas, lecturas de odómetro u otros antecedentes relacionados con el historial de kilometraje.</p>
+  <p>La Aplicación es una herramienta informativa. No inspecciona físicamente los vehículos, no mide directamente su odómetro y no certifica su estado mecánico, legal, comercial ni documental.</p>
+  <p>Las funcionalidades disponibles pueden variar según el dispositivo, la cobertura de las fuentes de información, la conectividad, la ubicación y las actualizaciones de la Aplicación.</p>
+
+  <h2>4. Acceso, uso y responsabilidades del usuario</h2>
+  <p>El usuario se compromete a utilizar la Aplicación de forma lícita, responsable y conforme a estos Términos y a la legislación vigente en Chile. En particular, se obliga a:</p>
+  <ul>
+    <li>Ingresar patentes únicamente para fines legítimos y respecto de los cuales tenga una razón válida para realizar la consulta.</li>
+    <li>No utilizar la Aplicación para acosar, amenazar, discriminar, suplantar identidades, perseguir personas ni realizar actividades ilícitas.</li>
+    <li>No intentar acceder sin autorización a sistemas, cuentas, bases de datos o infraestructura relacionada con la Aplicación o sus proveedores.</li>
+    <li>No interferir con el funcionamiento, seguridad o disponibilidad del servicio, ni utilizar robots, scrapers o mecanismos automatizados no autorizados para extraer información.</li>
+    <li>No copiar, revender, redistribuir, publicar masivamente ni explotar comercialmente los resultados, salvo autorización expresa del titular de los derechos o habilitación legal.</li>
+    <li>No utilizar los resultados como único antecedente para adoptar decisiones de compra, venta, financiamiento, aseguramiento, reparación o tasación de un vehículo.</li>
+  </ul>
+  <p>El usuario es responsable de la finalidad y del uso que dé a las consultas y resultados obtenidos.</p>
+
+  <h2>5. Fuentes de información y exactitud de los datos</h2>
+  <p>La información mostrada puede provenir de fuentes externas, proveedores de datos, registros públicos o privados, servicios de terceros y/o antecedentes previamente recopilados. La disponibilidad, cobertura, formato, actualización y calidad de esos datos dependen de cada fuente.</p>
+  <p>El Responsable no garantiza que los registros sean completos, exactos, actuales, auténticos o estén libres de errores, duplicidades, omisiones o inconsistencias. Puede haber diferencias entre lecturas, fechas o antecedentes, así como patentes sin información disponible.</p>
+  <p><strong>El kilometraje informado corresponde exclusivamente a los registros disponibles para la patente consultada y no necesariamente representa el kilometraje real, actual o total del vehículo.</strong> Una lectura aislada o una secuencia de lecturas no permite, por sí sola, confirmar que el odómetro no haya sido alterado ni descartar errores de digitación, reemplazos de tablero, cambios de componentes u otras circunstancias.</p>
+  <p>La ausencia de resultados no significa que el vehículo carezca de historial, y la presencia de resultados no constituye una certificación de kilometraje. Para verificar un vehículo, el usuario debe contrastar la información con documentación, inspección física, revisión técnica y/o un profesional competente.</p>
+
+  <h2>6. Disponibilidad y continuidad del servicio</h2>
+  <p>El Responsable procurará mantener la Aplicación operativa, pero no garantiza disponibilidad ininterrumpida ni libre de errores. El servicio puede verse afectado por mantenimiento, actualizaciones, fallas de internet, problemas del dispositivo, interrupciones de proveedores, cambios en las fuentes de datos o circunstancias fuera del control razonable del Responsable.</p>
+  <p>El Responsable podrá modificar, limitar, suspender o discontinuar funciones de la Aplicación cuando existan razones técnicas, operativas, legales, de seguridad o comerciales. Cuando sea razonablemente posible, informará cambios relevantes dentro de la Aplicación o por los canales disponibles.</p>
+
+  <h2>7. Servicio gratuito y publicidad</h2>
+  <p>La Aplicación se ofrece gratuitamente y puede financiarse mediante anuncios publicitarios proporcionados por terceros, incluido Google AdMob. La publicidad puede ser contextual o personalizada, según la configuración del dispositivo, los consentimientos otorgados y las opciones disponibles en los servicios de Google.</p>
+  <p>Los anuncios, productos, servicios, promociones y sitios de terceros son responsabilidad de sus respectivos anunciantes y proveedores. Su aparición en la Aplicación no implica recomendación, aprobación ni garantía por parte del Responsable.</p>
+  <p>La interacción del usuario con anuncios, incluidos clics, instalaciones o compras, se realiza bajo su propia responsabilidad y queda sujeta a los términos y políticas del proveedor o anunciante correspondiente.</p>
+  <p>La publicación y entrega de anuncios puede implicar el tratamiento de identificadores del dispositivo, datos de uso, dirección IP aproximada u otra información conforme a las políticas de Google y a las preferencias de privacidad del usuario. Los detalles sobre datos personales, finalidades, bases legales, consentimiento y derechos se informan en la Política de Privacidad de la Aplicación.</p>
+  <p>Políticas de Google: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Política de Privacidad de Google</a> y <a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener noreferrer">información sobre AdMob y privacidad</a>.</p>
+
+  <h2>8. Servicios y enlaces de terceros</h2>
+  <p>La Aplicación puede depender de servicios de terceros, tales como proveedores de alojamiento, bases de datos, analítica, notificaciones, autenticación, publicidad o fuentes de información vehicular. Dichos servicios se rigen por sus propios términos y políticas.</p>
+  <p>El Responsable no controla los servicios externos ni responde por su disponibilidad, contenido, seguridad, exactitud o cambios, sin perjuicio de las obligaciones que legalmente le correspondan. La inclusión de enlaces o referencias no supone respaldo de sus contenidos.</p>
+
+  <h2>9. Propiedad intelectual</h2>
+  <p>Salvo que se indique lo contrario, la Aplicación, su diseño, interfaz, código, elementos gráficos, textos, marcas y demás componentes están protegidos por las normas de propiedad intelectual aplicables y pertenecen al Responsable o a sus respectivos titulares.</p>
+  <p>Estos Términos conceden al usuario una autorización personal, limitada, revocable, no exclusiva e intransferible para utilizar la Aplicación conforme a su finalidad. No se transfiere al usuario ningún derecho de propiedad intelectual.</p>
+  <p>Los datos provenientes de terceros pueden estar sujetos a derechos, condiciones de uso o restricciones propias de sus titulares.</p>
+
+  <h2>10. Privacidad y datos personales</h2>
+  <p>El tratamiento de datos personales relacionado con la Aplicación se describe en un documento separado denominado <strong>Política de Privacidad</strong>, disponible en <span class="field">[URL PÚBLICA DE LA POLÍTICA DE PRIVACIDAD]</span>.</p>
+  <p>Antes de publicar la Aplicación, el Responsable debe completar esa Política de Privacidad indicando, de manera fiel al funcionamiento real, qué datos se recopilan (por ejemplo, datos técnicos del dispositivo, identificadores publicitarios, datos de uso, información de consultas o datos de contacto, si corresponde), con qué finalidades, durante cuánto tiempo, con quién se comparten, cómo se protegen y cómo ejercer los derechos que reconoce la legislación aplicable.</p>
+  <p>La patente de un vehículo puede relacionarse con información de personas. Por ello, el usuario no debe utilizar la Aplicación para identificar, localizar, perfilar o perjudicar a personas, ni para fines incompatibles con la ley. El Responsable tratará los datos conforme a la legislación chilena aplicable y a la Política de Privacidad.</p>
+
+  <h2>11. Limitación de responsabilidad</h2>
+  <p>En la máxima medida permitida por la legislación aplicable, el Responsable no garantiza resultados específicos derivados del uso de la Aplicación ni responde por decisiones adoptadas exclusivamente sobre la base de la información consultada, incluyendo decisiones de compra, venta, tasación, financiamiento, aseguramiento o reparación de vehículos.</p>
+  <p>El Responsable no será responsable por daños derivados de información incorrecta, incompleta, desactualizada o no disponible cuando ello provenga de fuentes externas o de circunstancias fuera de su control razonable, ni por interrupciones atribuibles a proveedores o redes de terceros, sin perjuicio de las responsabilidades que no puedan excluirse o limitarse legalmente.</p>
+  <p>Nada en estos Términos excluye, restringe o renuncia a derechos irrenunciables que correspondan al usuario conforme a la legislación chilena, incluidas las normas de protección de los consumidores cuando resulten aplicables.</p>
+
+  <h2>12. Suspensión o término del acceso</h2>
+  <p>El Responsable podrá suspender o restringir el acceso cuando existan indicios razonables de uso abusivo, fraudulento, ilícito, que comprometa la seguridad o que infrinja estos Términos. Cuando corresponda y sea posible, se informará al usuario el motivo de la medida.</p>
+  <p>El usuario puede dejar de utilizar la Aplicación y desinstalarla en cualquier momento. La desinstalación no necesariamente elimina información que haya sido almacenada en servidores o por proveedores; para ello deberá seguirse el procedimiento indicado en la Política de Privacidad.</p>
+
+  <h2>13. Cambios en los Términos</h2>
+  <p>El Responsable podrá actualizar estos Términos para reflejar cambios legales, técnicos, funcionales o comerciales. La versión vigente estará disponible en <span class="field">[URL PÚBLICA DE ESTOS TÉRMINOS]</span>, e indicará su fecha de actualización.</p>
+  <p>Cuando los cambios sean relevantes, se procurará informar al usuario mediante la Aplicación o por otro medio razonable. El uso continuado después de la entrada en vigencia de los cambios constituirá aceptación de la nueva versión, en la medida permitida por la ley. Si el usuario no está de acuerdo, deberá dejar de utilizar la Aplicación.</p>
+
+  <h2>14. Legislación aplicable y resolución de controversias</h2>
+  <p>Estos Términos se rigen por las leyes de la República de Chile. Las controversias serán conocidas por los tribunales u organismos competentes conforme a las reglas legales aplicables, sin afectar los derechos que la normativa de protección al consumidor u otras normas imperativas reconozcan al usuario.</p>
+
+  <h2>15. Contacto</h2>
+  <p>Para consultas, reclamos o solicitudes relacionadas con la Aplicación o estos Términos, puedes contactar al Responsable:</p>
+  <ul>
+    <li><strong>Responsable:</strong> <span class="field">[NOMBRE COMPLETO]</span></li>
+    <li><strong>Correo electrónico:</strong> <span class="field">[CORREO DE CONTACTO]</span></li>
+    <li><strong>Domicilio:</strong> <span class="field">[DOMICILIO O COMUNA, REGIÓN, CHILE]</span></li>
+    <li><strong>URL de la Aplicación:</strong> <span class="field">[URL DE GOOGLE PLAY, SI ESTÁ DISPONIBLE]</span></li>
+  </ul>
+
+  <footer>
+    <p><strong>KMS por Patente</strong> · Términos y Condiciones de Uso</p>
+    <p>Documento modelo para completar y revisar antes de su publicación. Los campos resaltados deben ser reemplazados por información real.</p>
+  </footer>
+</main>
+</body>
+</html>
